@@ -1,35 +1,38 @@
 h1 {
-  background-color: #bf8eb7;
+  background-color: #14243d;
   color: white;
-  font-family: garamond;
-  font-size: 60px;
+  font-family: Georgia;
+  font-size: 36px;
   text-align: center;
 }
-
-p {
-  max-width: 850px; 
-  background: white;
+h2 {
+  color: #14243d;
+  font-family: Georgia;
+  font-size: 24px; 
+}
+article {
+  max-width: 850px;
+}
+article p {
   color: black;
-  font-family: garamond bold;
+  font-family: Georgia;
   font-size: 16px;
-  margin-left: 283px;
 }
-figure {
-  max-width: 700px; 
-  border: 5px dotted #bf8eb7;
-  padding: 4px;
-  margin-left: 330px; 
+article figure {
+  max-width: 500px;
+  border: 2px solid #14243d; 
+  padding: 3px;
 }
-figure img {
-  width: 100%; 
-  height: auto;
+article figure img {
+  width: 100%
 }
-p img {
-  border: 5px dotted #bf8eb7;
-  padding: 4px; 
+article figcaption {
+  font-family: Georgia;
+  font-size: 14px;
+}
+article p img {
+  border: 2px solid #14243d;
+  padding: 3px;
   float: left;
-  margin-left: 5px;
-  margin-right: 20px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-right: 10px;
 }
