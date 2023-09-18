@@ -1,29 +1,30 @@
-header {
-    background-color: #bf8eb7;
-    color: white;
-    font-family: garamond;
-    font-size: 60px;
-    text-align: center;
-  }
-article p {
+h1 {
+  background-color: #bf8eb7;
+  color: white;
+  font-family: garamond;
+  font-size: 60px;
+  text-align: center;
+}
+
+p {
   max-width: 850px; 
   background: white;
   color: black;
   font-family: garamond bold;
   font-size: 16px;
-  margin-left: 283px; 
+  margin-left: 283px;
 }
-article figure {
+figure {
   max-width: 700px; 
   border: 5px dotted #bf8eb7;
   padding: 4px;
   margin-left: 330px; 
 }
-article figure img {
+figure img {
   width: 100%; 
   height: auto;
 }
-article p img {
+p img {
   border: 5px dotted #bf8eb7;
   padding: 4px; 
   float: left;
