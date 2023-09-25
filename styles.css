@@ -51,10 +51,10 @@ nav ul {
   list-style: none;
   width: 200px;
   border: 3px solid #41a39b;
+  padding: 0;
 }
 nav ul li {
   border-bottom: 3px solid #41a39b;
-  border-width: 100%;
 }
 nav ul li a {
   text-decoration: none;
