@@ -43,6 +43,9 @@ article p img {
   margin-right: 15px;
   margin-bottom: 15px;
 }
+nav {
+  padding-left: 330px;
+}
 nav ul {
   background-color:rgb(204, 184, 155);
   list-style: none;
