@@ -2,7 +2,7 @@ body {
   background: rgb(100, 6, 6);
 }
 h1 {
-  background-color: #c9841d;
+  background-color: #41a39b;
   color: white;
   font-family: Helvetica;
   font-size: 36px;
@@ -10,7 +10,7 @@ h1 {
   max-width: 500 px;
 }
 h2 {
-  color: #c9841d;
+  color: #41a39b;
   font-family: Helvetica;
   font-size: 24px; 
 }
@@ -19,37 +19,39 @@ article {
 }
 article p {
   color: white;
-  font-family: Monaco;
+  font-family: Georgia;
   font-size: 18px;
 }
 article figure {
   max-width: 500px;
-  border: 2px solid #c9841d; 
+  border: 2px solid #41a39b; 
   padding: 3px;
 }
 article figure img {
   width: 100%
 }
 article figcaption {
-  font-family: Monaco;
+  font-family: Georgia;
   font-size: 14px;
   color: white;
 }
 article p img {
-  border: 2px solid #c9841d;
+  border: 2px solid #41a39b;
   padding: 3px;
   float: left;
   margin-right: 15px;
+  margin-bottom: 15px;
 }
 nav ul {
   background-color:rgb(204, 184, 155);
   list-style: none;
   padding: 0;
   width: 200px;
-  border: 3px solid #c9841d;
+  border: 3px solid #41a39b;
+  box-align: center;
 }
 nav ul li {
-  border-bottom: 3px solid #c9841d;
+  border-bottom: 3px solid #41a39b;
   padding: 10px;
 }
 nav ul li a {
