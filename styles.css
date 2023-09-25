@@ -2,7 +2,7 @@ body {
   background: rgb(100, 6, 6);
 }
 h1 {
-  background-color: #d68d1f;
+  background-color: #c9841d;
   color: white;
   font-family: Helvetica;
   font-size: 36px;
@@ -10,32 +10,33 @@ h1 {
   max-width: 500 px;
 }
 h2 {
-  color: #d68d1f;
+  color: #c9841d;
   font-family: Helvetica;
   font-size: 24px; 
 }
 article {
-  max-width: 850px;
+  max-width: 700px;
 }
 article p {
   color: white;
   font-family: Monaco;
-  font-size: 16px;
+  font-size: 18px;
 }
 article figure {
   max-width: 500px;
-  border: 2px solid #d68d1f; 
+  border: 2px solid #c9841d; 
   padding: 3px;
 }
 article figure img {
   width: 100%
 }
 article figcaption {
-  font-family: Helvetica;
+  font-family: Monaco;
   font-size: 14px;
+  color: white;
 }
 article p img {
-  border: 2px solid #d68d1f;
+  border: 2px solid #c9841d;
   padding: 3px;
   float: left;
   margin-right: 15px;
@@ -45,20 +46,20 @@ nav ul {
   list-style: none;
   padding: 0;
   width: 200px;
-  border: 3px solid #d68d1f;
+  border: 3px solid #c9841d;
 }
 nav ul li {
-  border-bottom: 3px solid #d68d1f;
+  border-bottom: 3px solid #c9841d;
   padding: 10px;
 }
 nav ul li a {
   text-decoration: none;
   color: black;
-  font-family: Helvetica;
+  font-family: Helvetica Bold;
 }
 nav ul li a:hover {
   text-decoration: underline;
 }
 nav ul li:last child {
-  border-bottom: none;
+  border-bottom: 0;
 }
