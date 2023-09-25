@@ -60,7 +60,7 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
   color: rgb(82, 5, 5);
-  font-family: Helvetica
+  font-family: Helvetica;
   display: block;
 }
 nav ul li a:hover {
