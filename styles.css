@@ -62,6 +62,7 @@ nav ul li a {
   color: rgb(82, 5, 5);
   font-family: Helvetica;
   display: block;
+  text-align: center;
 }
 nav ul li a:hover {
   background-color: #704d2b;
