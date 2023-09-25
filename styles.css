@@ -44,7 +44,7 @@ article p img {
   margin-bottom: 15px;
 }
 nav {
-  padding-left: 360px;
+  padding-left: 500px;
 }
 nav ul {
   background-color:rgb(204, 184, 155);
@@ -55,6 +55,7 @@ nav ul {
 }
 nav ul li {
   border-bottom: 3px solid #41a39b;
+  padding: 10px;
 }
 nav ul li a {
   text-decoration: none;
