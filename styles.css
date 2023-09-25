@@ -1,8 +1,8 @@
 body {
-  background: rgb(136, 9, 9);
+  background: rgb(100, 6, 6);
 }
 h1 {
-  background-color: #d6ab1f;
+  background-color: #d68d1f;
   color: white;
   font-family: Helvetica;
   font-size: 36px;
@@ -10,7 +10,7 @@ h1 {
   max-width: 500 px;
 }
 h2 {
-  color: #d6ab1f;
+  color: #d68d1f;
   font-family: Helvetica;
   font-size: 24px; 
 }
@@ -18,13 +18,13 @@ article {
   max-width: 850px;
 }
 article p {
-  color: black;
-  font-family: Courier New;
+  color: white;
+  font-family: Tahoma;
   font-size: 16px;
 }
 article figure {
   max-width: 500px;
-  border: 2px solid #d6ab1f; 
+  border: 2px solid #d68d1f; 
   padding: 3px;
 }
 article figure img {
@@ -35,27 +35,30 @@ article figcaption {
   font-size: 14px;
 }
 article p img {
-  border: 2px solid #d6ab1f;
+  border: 2px solid #d68d1f;
   padding: 3px;
   float: left;
   margin-right: 15px;
 }
 nav ul {
-  background-color:rgb(138, 98, 40);
+  background-color:rgb(204, 184, 155);
   list-style: none;
   padding: 0;
   width: 200px;
-  border: 3px solid #d6ab1f;
+  border: 3px solid #d68d1f;
 }
 nav ul li {
-  border-bottom: 1px solid #d6ab1f;
+  border-bottom: 3px solid #d68d1f;
   padding: 10px;
 }
 nav ul li a {
   text-decoration: none;
-  color: white;
+  color: black;
   font-family: Helvetica;
 }
 nav ul li a:hover {
   text-decoration: underline;
+}
+nav ul li:last child {
+  border-bottom: none;
 }
