@@ -44,7 +44,7 @@ article p img {
   margin-bottom: 15px;
 }
 nav {
-  padding-left: 500px;
+  padding-left: 600px;
 }
 nav ul {
   background-color:rgb(204, 184, 155);
@@ -61,6 +61,7 @@ nav ul li a {
   text-decoration: none;
   color: rgb(82, 5, 5);
   font-family: Helvetica
+  display: block;
 }
 nav ul li a:hover {
   background-color: #704d2b;
