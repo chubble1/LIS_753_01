@@ -1,14 +1,21 @@
 body {
   background: rgb(82, 5, 5);
 }
-.screenreader-only {
+screenreader-text {
   position: absolute;
-  left: -10000px;
-  top: auto;
-  width: 1px;
+  left: -999px;
+  width:1px;
   height: 1px;
-  overflow: hidden;
-}
+  top: auto;
+  
+  &:focus {
+    color: $background-color;
+    display: inline-block;
+    height: auto;
+    width: auto;
+    position: static;
+    margin: auto;
+} }
 h1 {
   align-items: center;
   background-color: #41a39b;
