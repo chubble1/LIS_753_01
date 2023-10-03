@@ -1,7 +1,7 @@
 body {
   background: rgb(82, 5, 5);
 }
-screenreader-text {
+.screenreader-text {
   color: white;
 }
 h1 {
