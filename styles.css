@@ -1,6 +1,11 @@
 body {
   background: rgb(82, 5, 5);
 }
+.skip-to-content-link {
+  left: 50%;
+  position: absolute;
+  transform: translateY(-100%);
+}
 h1 {
   align-items: center;
   background-color: #41a39b;
@@ -14,9 +19,6 @@ h2 {
   color: #41a39b;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px; 
-}
-body li {
-  color:white
 }
 main {
   max-width: 700px;
