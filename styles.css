@@ -1,7 +1,7 @@
 body {
   background: rgb(82, 5, 5);
 }
-sr-only {
+screenreader-only {
   position: absolute;
   left: -10000px;
   top: auto;
