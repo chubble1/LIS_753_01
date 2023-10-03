@@ -2,7 +2,12 @@ body {
   background: rgb(82, 5, 5);
 }
 screenreader-text {
-  display: hidden;
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
 h1 {
   align-items: center;
