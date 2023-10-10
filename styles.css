@@ -27,7 +27,7 @@ h2 {
   font-size: 30px; 
 }
 main {
-  max-width: 700px;
+  max-width: 1000px;
   align-items: center;
 }
 article p {
@@ -36,7 +36,7 @@ article p {
   font-size: 18px;
 }
 article figure {
-  width: 800px;
+  width: 700px;
   border: 2px solid #41a39b;
   padding: 3px;
 }
