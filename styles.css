@@ -54,6 +54,7 @@ figure.main-image {
 figure.section-image {
   margin-bottom: 15px;
   max-width: 700px;
+  background-color:#baf1ed
 }
 figure.section-image.odd {
   float: left;
