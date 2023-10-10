@@ -38,7 +38,7 @@ article p {
 figure.main-image {
   background:rgb(204, 184, 155);
   border-color: #41a39b;
-  color: white;
+  color: black;
 }
 figure.section-image {
   margin-bottom: 15px;
@@ -57,15 +57,13 @@ article figcaption {
   font-size: 14px;
   color: white;
 }
-nav {
-  align-items: center;
-}
 nav ul {
   background-color:rgb(204, 184, 155);
   list-style: none;
   width: 200px;
   border: 3px solid #41a39b;
   padding: 0;
+  display: inline;
 }
 nav ul li {
   border-bottom: 3px solid #41a39b;
@@ -81,7 +79,4 @@ nav ul li a {
 nav ul li a:hover {
   background-color: #704d2b;
   color: white;
-}
-nav ul li:last child {
-  border-bottom: 0;
 }
