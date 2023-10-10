@@ -35,6 +35,11 @@ article p {
   font-family: 'Courier New', Courier, monospace;
   font-size: 18px;
 }
+article figure {
+  width: 600px;
+  border: 2px solid #41a39b;
+  padding: 3px;
+}
 figure.main-image {
   background:rgb(204, 184, 155);
   border-color: #41a39b;
