@@ -35,14 +35,6 @@ article p {
   font-family: 'Courier New', Courier, monospace;
   font-size: 18px;
 }
-article figure {
-  width: 600px;
-  border: 2px solid #41a39b; 
-  padding: 3px;
-}
-article figure img {
-  width: 100%
-}
 figure.main-image {
   background:rgb(204, 184, 155);
   border-color: #41a39b;
@@ -64,13 +56,6 @@ article figcaption {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   color: white;
-}
-article p img {
-  border: 2px solid #41a39b;
-  padding: 3px;
-  float: left;
-  margin-right: 15px;
-  margin-bottom: 15px;
 }
 nav {
   align-items: center;
