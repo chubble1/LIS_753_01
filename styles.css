@@ -70,9 +70,6 @@ figure.section-image.even {
   float: right;
   margin-left: 15px;
 }
-nav {
-  display:inline;
-}
 nav ul {
   background-color:rgb(204, 184, 155);
   list-style: none;
