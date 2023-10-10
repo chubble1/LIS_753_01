@@ -36,8 +36,8 @@ article p {
   font-size: 18px;
 }
 article figure {
-  width: 700px;
-  border: 2px solid #41a39b;
+  width: 800px;
+  border: 3px solid #41a39b;
   padding: 3px;
 }
 article p img {
@@ -47,13 +47,18 @@ article p img {
   margin-right: 15px;
   margin-bottom: 15px;
 }
+article figcaption {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: black;
+}
 figure.main-image {
   background:rgb(204, 184, 155);
   border-color: #41a39b;
 }
 figure.section-image {
   margin-bottom: 15px;
-  max-width: 700px;
+  width: 700px;
   background:rgb(186, 233, 236)
 }
 figure.section-image.odd {
@@ -63,11 +68,6 @@ figure.section-image.odd {
 figure.section-image.even {
   float: right;
   margin-left: 15px;
-}
-article figcaption {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 14px;
-  color: black;
 }
 nav ul {
   background-color:rgb(204, 184, 155);
