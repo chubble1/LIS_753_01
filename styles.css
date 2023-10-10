@@ -27,7 +27,7 @@ h2 {
   font-size: 30px; 
 }
 main {
-  max-width: 700px;
+  max-width: 1000px;
   align-items: center;
 }
 article p {
@@ -42,6 +42,23 @@ article figure {
 }
 article figure img {
   width: 100%
+}
+figure.main-image {
+  background:rgb(204, 184, 155);
+  border-color: #41a39b;
+  color: white;
+}
+figure.section-image {
+  margin-bottom: 15px;
+  max-width: 800;
+}
+figure.section-image.odd {
+  float: left;
+  margin-right: 15px;
+}
+figure.section-image.even {
+  float: right;
+  margin-left: 15px;
 }
 article figcaption {
   font-family: Arial, Helvetica, sans-serif;
