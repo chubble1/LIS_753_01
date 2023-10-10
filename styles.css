@@ -50,7 +50,6 @@ article p img {
 figure.main-image {
   background:rgb(204, 184, 155);
   border-color: #41a39b;
-  color: black;
 }
 figure.section-image {
   margin-bottom: 15px;
@@ -67,7 +66,7 @@ figure.section-image.even {
 article figcaption {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
-  color: white;
+  color: black;
 }
 nav ul {
   background-color:rgb(204, 184, 155);
