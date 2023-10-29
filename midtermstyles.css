@@ -9,7 +9,7 @@ header {
     align-items: center;
 }
 header fig img {
-    align-items: center;
+    margin: 10px auto;
 }
 article {
     width: 1200px;
