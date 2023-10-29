@@ -8,11 +8,15 @@ header {
     color: white;
     align-items: center;
 }
-header fig {
+header img {
     align-content: center;
 }
 article {
     width: 800px;
+    align-items: center;
+}
+article img {
+    align-items: center;
 }
 h1 {
     color: #195450;
