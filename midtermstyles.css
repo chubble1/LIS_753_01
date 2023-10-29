@@ -10,7 +10,7 @@ header {
 }
 article {
     width: 1200px;
-    align-content: center;
+    box-align: center;
 }
 article img {
     align-items: center;
