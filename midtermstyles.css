@@ -16,7 +16,9 @@ header {
     background-color: white;
     color: white;
     align-items: center;
-    margin: auto;
+}
+header fig {
+    float: center;
 }
 article {
     width: 1200px;
