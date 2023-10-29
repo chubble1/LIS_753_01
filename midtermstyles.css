@@ -1,4 +1,12 @@
 
+.skip {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
 body {
     text-align: left;
     background: #E7FFFD;
@@ -7,9 +15,7 @@ header {
     background-color: white;
     color: white;
     align-items: center;
-}
-header fig img {
-    margin: 10px auto;
+    margin: auto;
 }
 article {
     width: 1200px;
