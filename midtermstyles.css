@@ -10,7 +10,7 @@ header {
 }
 article {
     width: 1200px;
-    margin:auto;
+    margin: 10px auto;
 }
 h1 {
     color: #24786A;
@@ -18,11 +18,11 @@ h1 {
     text-align: center;
     align-items: center;
 }
-h2 {
+article h2 {
     color: #542F19;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-h3 {
+article h3 {
     color: #784324;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
