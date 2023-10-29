@@ -61,9 +61,11 @@ article a {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-style: solid;
     border-width: 3px;
+    padding: 5px;
     border-color:#784324;
     text-align: center;
     color:#542F19;
+    text-decoration: none;
 }
 figure.section-image.one {
     float: left;
