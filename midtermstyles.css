@@ -11,8 +11,6 @@ header {
 article {
     width: 1200px;
 }
-article img {
-    align-items: center;
 }
 h1 {
     color: #195450;
@@ -40,8 +38,7 @@ li a:hover {
 }
 p {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    width: 1000px;
-    margin: auto;
+    margin: 10px auto 10px auto;
 }
 .column1of3 {
     width: 350px;
