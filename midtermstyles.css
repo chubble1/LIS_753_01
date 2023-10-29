@@ -18,6 +18,12 @@ h1 {
     text-align: center;
     align-items: center;
 }
+h2 {
+    color: #542F19;
+}
+h3 {
+    color: #784324;
+}
 
 ul {
     background-color: #24786A;
