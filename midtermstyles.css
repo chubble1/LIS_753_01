@@ -1,6 +1,11 @@
 
 header {
     background-color: white;
+    color: white;
+    align-text: center;
+}
+header fig {
+    align-content: center;
 }
 h1 {
     color: #195450;
