@@ -1,6 +1,6 @@
 
 body {
-    box-align: center;
+    align-self: center;
     text-align: left;
     background: #E7FFFD;
 }
