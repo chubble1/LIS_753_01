@@ -10,20 +10,22 @@ header {
 }
 article {
     width: 1200px;
+    margin:auto;
 }
 h1 {
-    color: #195450;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #24786A;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     align-items: center;
 }
 h2 {
     color: #542F19;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h3 {
     color: #784324;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
 ul {
     background-color: #24786A;
     color: white;
@@ -43,7 +45,6 @@ li a:hover {
 }
 p {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 10px auto 10px auto;
 }
 .column1of3 {
     width: 350px;
