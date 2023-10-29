@@ -2,10 +2,13 @@
 header {
     background-color: white;
     color: white;
-    align-text: center;
+    align-items: center;
 }
 header fig {
     align-content: center;
+}
+article {
+    width: 800px;
 }
 h1 {
     color: #195450;
