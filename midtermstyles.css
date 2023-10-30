@@ -39,7 +39,7 @@ article h3 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 nav {
-    box-align: center;
+    justify-content: center;
 }
 ul {
     background-color: #24786A;
@@ -116,5 +116,5 @@ footer#page-footer {
     padding: 15px;
     background:#24786A;
     color:white;
-    margin-top: 10px;
+    margin-top: 50px;
 }
