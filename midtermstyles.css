@@ -107,6 +107,7 @@ figure.section-image.one {
 figure.section-image.two {
     float: right;
     margin-left: 15px;
+    margin-top: 50px;
 }
 .column1of3 {
     width: 350px;
