@@ -19,6 +19,9 @@ header {
 header fig img {
     margin: 10px auto 10px auto;
 }
+fig caption {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 article {
     width: 1200px;
     margin: 10px auto;
@@ -75,7 +78,7 @@ a.a1 {
     text-align: center;
     color:#542F19;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
 }
 figure.section-image.one {
     float: left;
