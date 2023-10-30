@@ -32,7 +32,7 @@ h1 {
     text-align: center;
     align-items: center;
     letter-spacing: 0.3em;
-    text-shadow:#542F19
+    text-shadow:2px 2px 7px #542F19;
 }
 article h2 {
     color: #542F19;
