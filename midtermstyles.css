@@ -27,12 +27,12 @@ article {
     margin: 10px auto;
 }
 h1#site-title {
-    color: #195450;
+    color: #784324;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     align-items: center;
     letter-spacing: 0.3em;
-    text-shadow:2px 2px 7px #24786A;
+    text-shadow:2px 2px 7px #542F19;
     font-size: 40px;
 }
 article h2 {
@@ -78,22 +78,6 @@ p.two {
     align-items:center;
     font-size: 25px; 
     margin-top: 20px;
-}
-a.a1 {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border-style: solid;
-    border-width: 3px;
-    padding: 5px;
-    border-color:#784324;
-    text-align: center;
-    color:#542F19;
-    text-decoration: none;
-    font-size: 20px;
-    margin: auto;
-}
-a.a1:hover {
-    background:#24786A;
-    color:#E7FFFD;
 }
 figure.main-image {
     text-align:center;
