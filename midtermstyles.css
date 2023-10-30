@@ -17,8 +17,8 @@ header {
     color: white;
     align-items: center;
 }
-header img {
-    float: center;
+header fig img {
+    margin: 10px auto;
 }
 article {
     width: 1200px;
@@ -63,9 +63,8 @@ p.one {
     border-style: dotted;
     border-width: 3px;
     border-color:#542F19;
-    width: 600px;
+    width: 500px;
     text-align: center;
-
 }
 a.a1 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
