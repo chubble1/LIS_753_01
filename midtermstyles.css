@@ -27,12 +27,12 @@ article {
     margin: 10px auto;
 }
 h1#site-title {
-    color: #784324;
+    color: #542F19;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     align-items: center;
     letter-spacing: 0.3em;
-    text-shadow:2px 2px 7px #542F19;
+    text-shadow:2px 2px 7px #784324;
 }
 article h2 {
     color: #542F19;
@@ -88,7 +88,7 @@ a.a1 {
     color:#542F19;
     text-decoration: none;
     font-size: 20px;
-    margin-right: 125px;
+    align-items: left;
 }
 a.a2 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -100,6 +100,7 @@ a.a2 {
     color:#542F19;
     text-decoration: none;
     font-size: 20px;
+    align-items: center;
 }
 a.a3 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -111,7 +112,7 @@ a.a3 {
     color:#542F19;
     text-decoration: none;
     font-size: 20px;
-    margin-left: 125px;
+    align-items: right;
 }
 figure.main-image {
     text-align:center;
