@@ -64,8 +64,8 @@ p {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 p.one {
-    border-style: dotted;
-    border-width: 3px;
+    border-style: solid;
+    border-width: 2px;
     border-color:#542F19;
     width: 500px;
     text-align: center;
