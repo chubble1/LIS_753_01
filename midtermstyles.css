@@ -58,8 +58,6 @@ li a:hover {
 }
 p {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    width: 1080px;
-    margin: 10px auto 10px auto;
 }
 p.one {
     border-style: dotted;
