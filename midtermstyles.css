@@ -89,7 +89,7 @@ a.a1 {
     color:#542F19;
     text-decoration: none;
     font-size: 20px;
-    align-items: left;
+    margin: auto;
 }
 a.a2 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -101,7 +101,7 @@ a.a2 {
     color:#542F19;
     text-decoration: none;
     font-size: 20px;
-    align-items: center;
+    margin: auto;
 }
 a.a3 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -113,7 +113,7 @@ a.a3 {
     color:#542F19;
     text-decoration: none;
     font-size: 20px;
-    align-items: right;
+    margin: auto;
 }
 figure.main-image {
     text-align:center;
