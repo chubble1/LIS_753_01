@@ -89,7 +89,7 @@ a.a1 {
     color:#542F19;
     text-decoration: none;
     font-size: 20px;
-    place-content: center;
+    margin: auto;
 }
 a.a1:hover {
     background:#24786A;
