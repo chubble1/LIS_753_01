@@ -39,7 +39,7 @@ article h3 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 nav {
-    align-items: center;
+    box-align: center;
 }
 ul {
     background-color: #24786A;
@@ -88,6 +88,9 @@ figure.section-image.one {
 figure.section-image.two {
     float: right;
     margin-right: 15px;
+}
+figure.section-image three {
+    box-shadow:10px #24786A;
 }
 .column1of3 {
     width: 350px;
