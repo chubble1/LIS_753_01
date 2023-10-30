@@ -38,15 +38,16 @@ article h3 {
     color: #784324;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+nav {
+    align-items: center;
+}
 ul {
     background-color: #24786A;
     color: white;
     padding: 10px;
-    border: 1px solid #195450;
 }
 li {
     display: inline;
-    text-align: center;
 }
 li a {
     color: white;
