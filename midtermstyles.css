@@ -101,6 +101,8 @@ figure.section-image.two {
 figure.section-image.three {
     box-shadow:10px 10px #24786A;
     align-items: center;
+    width: 900px;
+    height: 680px;
 }
 .column1of3 {
     width: 350px;
