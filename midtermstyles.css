@@ -81,18 +81,6 @@ p.two {
 }
 a.a1 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border-style: dashed;
-    border-width: 3px;
-    padding: 5px;
-    border-color:#784324;
-    text-align: center;
-    color:#542F19;
-    text-decoration: none;
-    font-size: 20px;
-    margin: auto;
-}
-a.a2 {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-style: solid;
     border-width: 3px;
     padding: 5px;
@@ -103,17 +91,8 @@ a.a2 {
     font-size: 20px;
     margin: auto;
 }
-a.a3 {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border-style: dotted;
-    border-width: 3px;
-    padding: 5px;
-    border-color:#784324;
-    text-align: center;
-    color:#542F19;
-    text-decoration: none;
-    font-size: 20px;
-    margin: auto;
+a.a1:hover {
+    background:#24786A;
 }
 figure.main-image {
     text-align:center;
