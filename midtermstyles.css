@@ -69,6 +69,13 @@ p.one {
     align-items:center;
     font-size: 30px; 
 }
+p.two {
+    text-shadow: 2px 2px 5px #24786A;
+    text-align: center;
+    align-items:center;
+    font-size: 25px; 
+    margin-top: 20px;
+}
 a.a1 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-style: solid;
