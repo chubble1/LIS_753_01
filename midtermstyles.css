@@ -19,7 +19,7 @@ header {
 header fig img {
     margin: 10px auto 10px auto;
 }
-article fig caption {
+fig caption {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 article {
@@ -89,7 +89,7 @@ a.a1 {
     color:#542F19;
     text-decoration: none;
     font-size: 20px;
-    place-self: center;
+    margin: 10px auto;
 }
 a.a1:hover {
     background:#24786A;
