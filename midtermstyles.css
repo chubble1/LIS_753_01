@@ -80,6 +80,9 @@ a.a1 {
     text-decoration: none;
     font-size: 20px;
 }
+figure.main-image {
+    text-align:center;
+}
 figure.section-image.one {
     float: left;
     margin-right: 15px;
