@@ -98,11 +98,8 @@ figure.section-image.two {
     float: right;
     margin-left: 15px;
 }
-figure.section-image.three {
-    box-shadow:10px 10px #24786A;
-    align-items: center;
-    width: 900px;
-    height: 680px;
+figure#map {
+    box-shadow: 10px 10px 5px #195450;
 }
 .column1of3 {
     width: 350px;
