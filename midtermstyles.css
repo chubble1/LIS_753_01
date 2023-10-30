@@ -33,6 +33,7 @@ h1#site-title {
     align-items: center;
     letter-spacing: 0.3em;
     text-shadow:2px 2px 7px #24786A;
+    font-size: 40px;
 }
 article h2 {
     color: #542F19;
@@ -146,7 +147,7 @@ figure.section-image.two {
 footer#page-footer {
     text-align: center;
     padding: 15px;
-    background:#24786A;
+    background:#542F19;
     color:white;
     margin-top: 50px;
 }
