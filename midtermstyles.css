@@ -80,11 +80,10 @@ a.a1 {
 figure.section-image.one {
     float: left;
     margin-right: 15px;
-    margin-bottom: 200px;
 }
 figure.section-image.two {
     float: right;
-    margin-right: 15px;
+    margin-left: 15px;
 }
 figure.section-image three {
     box-shadow:10px 10px #24786A;
