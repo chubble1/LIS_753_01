@@ -54,13 +54,15 @@ figure.section-image {
   max-width: 100%;
   height: auto;
 }
-figure.section-image.odd {
-  float: left;
-  margin-right: 15px;
-}
-figure.section-image.even {
-  float: right;
-  margin-left: 15px;
+@media all and (min-width: 768px) {
+  figure.section-image.even {
+    float: right;
+    margin-left: 15px;
+  }
+  figure.section-image.odd {
+    float: left;
+    margin-right: 15px;
+  }
 }
 nav ul {
   background-color:#FF6663;
