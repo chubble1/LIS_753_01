@@ -100,6 +100,8 @@ nav ul li:last child {
 }
 .sidebar {
   color: black;
-  background-color:#E0FF4F;
+  background-color:#FF6663;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  border:2px #E0FF4F;
 }
