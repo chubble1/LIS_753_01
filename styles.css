@@ -45,7 +45,7 @@ article figcaption {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   color: black;
-  width: 400px;
+  max-width: 100%;
 }
 figure.section-image {
   margin-bottom: 15px;
@@ -57,10 +57,14 @@ figure.section-image {
 figure.section-image.odd {
   float: left;
   margin-right: 15px;
+  max-width: 100%;
+  height: auto;
 }
 figure.section-image.even {
   float: right;
   margin-left: 15px;
+  max-width: 100%;
+  height: auto;
 }
 nav ul {
   background-color:#FF6663;
