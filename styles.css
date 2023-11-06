@@ -1,12 +1,9 @@
 body {
-  background: rgb(82, 5, 5);
-}
-body a {
-  color: white;
+  background: #00272B;
 }
 h1#site-title {
   align-items: center;
-  background-color: #41a39b;
+  background-color: #A51080;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 70px;
@@ -14,52 +11,36 @@ h1#site-title {
 }
 h1#article-title {
   align-items: center;
-  background-color: #41a39b;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 50px;
+  font-size: 40px;
   text-align: center;
 }
 h2 {
-  color: #41a39b;
+  color: #A51080;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 30px; 
-}
-main {
-  max-width: 1000px;
-  align-items: center;
+  font-size: 25px; 
 }
 article p {
   color: white;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 18px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 16px;
 }
 article figure {
-  width: 800px;
-  border: 3px solid #41a39b;
+  width: 500px;
+  border: 3px solid #E0FF4F;
   padding: 3px;
-}
-article p img {
-  border: 2px solid #41a39b;
-  padding: 3px;
-  float: left;
-  margin-right: 15px;
-  margin-bottom: 15px;
 }
 article figcaption {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   color: black;
-}
-figure.main-image {
-  background:rgb(204, 184, 155);
-  border-color: #41a39b;
-  max-width: 775px;
+  width: 400px;
 }
 figure.section-image {
   margin-bottom: 15px;
-  width: 700px;
-  background:rgb(186, 233, 236)
+  width: 400px;
+  background: #E0FF4F;
 }
 figure.section-image.odd {
   float: left;
@@ -70,32 +51,32 @@ figure.section-image.even {
   margin-left: 15px;
 }
 nav ul {
-  background-color:rgb(204, 184, 155);
+  background-color:#FF6663;
   list-style: none;
-  width: 200px;
-  border: 3px solid #41a39b;
+  width: 150px;
+  border: 3px solid #E0FF4F;
   padding: 0;
 }
 nav ul li {
-  border-bottom: 3px solid #41a39b;
+  border-bottom: 3px solid #E0FF4F;
   padding: 10px;
 }
 nav ul li a {
   text-decoration: none;
-  color: rgb(82, 5, 5);
+  color: black;
   font-family: Arial, Helvetica, sans-serif;
   display: block;
   text-align: center;
 }
 nav ul li a:hover {
-  background-color: #704d2b;
+  background-color: #FF2ECC;
   color: white;
 }
 nav ul li:last child {
   border-bottom: 0;
 }
 .main-container {
-  max-width: 960px;
+  max-width: 1000px;
   margin: auto;
 }  
 .site-menu, .sidebar {
