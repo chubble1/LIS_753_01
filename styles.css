@@ -102,5 +102,5 @@ nav ul li:last child {
   color: black;
   background-color:#E0FF4F;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  border:1px #FF6663;
+  border:2px solid #FF6663;
 }
