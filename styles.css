@@ -99,7 +99,5 @@ nav ul li:last child {
   float: left;
 }
 .sidebar {
-  background-color:#FF6663;
   text-align: center;
-  border: 3px #E0FF4F;
 }
