@@ -98,7 +98,7 @@ nav ul li:last child {
 .site-menu, .middle-content, .sidebar {
   float: left;
 }
-aside a {
+.sidebar {
   color: black;
   background-color:#E0FF4F;
 }
