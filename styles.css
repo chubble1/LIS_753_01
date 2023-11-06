@@ -93,4 +93,17 @@ nav ul li a:hover {
 }
 nav ul li:last child {
   border-bottom: 0;
-  }  
+}
+.main-container {
+  max-width: 960px;
+  margin: auto;
+}  
+.site-menu, .sidebar {
+  width: 20%;
+}
+.middle-content {
+  width: 60%;
+}
+.site-menu, .middle-content, .sidebar {
+  float: left;
+}
