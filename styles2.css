@@ -14,17 +14,20 @@
     max-width: 1000px;
     margin: 0 auto;
   }
+  body {
+    background: #EDDEA4;
+  }
   body.dark-mode {
-    background: #010101;
+    background: #0D1321;
     color: #ffffff;
   }
   body.dark-mode button {
-    background color: #ffffff;
+    background color: #BDD5EA;
   }
   #message {
-    color: white;
-    background: #14243d;
-    border: 1px solid #de7733;
+    color: #0D1321;
+    background: #C6878F;
+    border: 1px solid #577399;
     padding: 20px 40px;
     margin: 12px 0;
     border-radius: 4px;
@@ -38,3 +41,13 @@
   #message button {
     float: right;
   }
+  article figure {
+    width: 100%;
+    border: 3px solid #C6878F;
+    padding: 3px;
+  }
+  article figcaption {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #0D1321;
+    max-width: 100%;
