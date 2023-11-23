@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head><title>My Hello Document</title>
+        <link href="styles.css">
+    </head>
+        <body>
+        <div class="container"> 
+            <button onclick="darkMode()">Toggle dark mode</button>
+            <div id="message">Welcome to my site. <button onclick="document.getElementById('message').classList.add('dismissed')">Dismiss</button></div>  
+                <header>
+                    <h1 id="page-title">What's in a Name?</h1>
+                </header>
+            <article>
+                <h2>My name is Claire Hubble.</h2>
+                <p>Below is a photo of the Hubble Telescope and one time when I was younger my paternal grandma did say we were related to Edwin Hubble, inventor of said telescope. She was    very old when she told me and I haven't done due deligence in researching if it's true, so who knows. </p>
+                <figure><img src="https://i.insider.com/60d0e3c9db3f80001848d09f?width=600" alt=""/><figcaption>This photograph of the Hubble Space Telescope was taken by the space shuttle Atlantis’ robotic arm during Servicing Mission 4. Credit: NASA</figcaption>
+                </figure>
+                <p>I like that sometimes I'll say for spelling purposes, <q>Hubble, like the telescope,</q> and the person I'm talking to will have absolutely no idea that there even is a telescope called Hubble. Always fun to stay humble. (Or is it stay Hubble?)</p>  
+            </article>
+        </div>
+        <script>
+            function darkMode() {
+                document.body.classList.toggle('dark-mode');
+             }
+        </script>
+        </body>
+</html>

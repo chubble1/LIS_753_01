@@ -110,3 +110,32 @@ article img {
 @-ms-viewport{
   width: device-width;
 }
+.container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+body.dark-mode {
+  background: #010101;
+  color: #ffffff;
+}
+body.dark-mode button {
+  background color: #ffffff;
+}
+#message {
+  color: white;
+  background: #14243d;
+  border: 1px solid #de7733;
+  padding: 20px 40px;
+  margin: 12px 0;
+  border-radius: 4px;
+  opacity: 1;
+  transition: opacity .5s ease;
+}
+#message.dismissed {
+  opacity: 0;
+  height: 0;
+}
+#message button {
+  float: right;
+}
