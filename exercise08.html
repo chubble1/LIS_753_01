@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-us">
-    <head><title>My Hello Document</title>
-        <link href="styles.css">
+    <head>
+        <title>My Hello Document</title>
+        <link href="styles2.css" rel="stylesheet"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
         <body>
         <div class="container"> 
+            <a href='#maincontent' class="skip">Skip to main content</a>
             <button onclick="darkMode()">Toggle dark mode</button>
             <div id="message">Welcome to my site. <button onclick="document.getElementById('message').classList.add('dismissed')">Dismiss</button></div>  
                 <header>
                     <h1 id="page-title">What's in a Name?</h1>
                 </header>
+            <main id="maincontent">
             <article>
                 <h2>My name is Claire Hubble.</h2>
                 <p>Below is a photo of the Hubble Telescope and one time when I was younger my paternal grandma did say we were related to Edwin Hubble, inventor of said telescope. She was    very old when she told me and I haven't done due deligence in researching if it's true, so who knows. </p>
@@ -17,6 +21,7 @@
                 </figure>
                 <p>I like that sometimes I'll say for spelling purposes, <q>Hubble, like the telescope,</q> and the person I'm talking to will have absolutely no idea that there even is a telescope called Hubble. Always fun to stay humble. (Or is it stay Hubble?)</p>  
             </article>
+            </main>
         </div>
         <script>
             function darkMode() {

@@ -1,0 +1,54 @@
+.skip {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+  @-ms-viewport{
+    width: device-width;
+  }
+  .container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  body.dark-mode {
+    background: #010101;
+    color: #ffffff;
+  }
+  body.dark-mode button {
+    background color: #ffffff;
+  }
+  #message {
+    color: white;
+    background: #14243d;
+    border: 1px solid #de7733;
+    padding: 20px 40px;
+    margin: 12px 0;
+    border-radius: 4px;
+    opacity: 1;
+    transition: opacity .5s ease;
+  }
+  #message.dismissed {
+    opacity: 0;
+    height: 0;
+  }
+  #message button {
+    float: right;
+  }
+  h1#article-title {
+    align-items: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    text-shadow:2px 2px 7px #FF2ECC;
+  }
+  h2 {
+    color: #A51080;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px; 
+    text-shadow:1px 1px 3px white;
+  }
