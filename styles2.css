@@ -15,7 +15,7 @@
     margin: 0 auto;
   }
   body {
-    background: #EDDEA4;
+    background: #BDD5EA;
   }
   body.dark-mode {
     background: #0D1321;
@@ -49,13 +49,15 @@
   }
   figure.main-image {
     margin: auto;
-    max-width: 700px;
+    max-width: 900px;
     height: auto;
+    background: #EDDEA4;
   }
   figure.section-image.small {
     float: right;
     margin-left: 15px;
     max-width: 400px;
+    background: #EDDEA4;
   }
   figure {
     border: 3px solid #C6878F;
