@@ -79,9 +79,10 @@
   }
   h1#page-title {
     font-weight: 900;
-    font-size: 96px;
+    font-size: 80px;
+    margin: auto;
   }
   h2 {
     font-weight: 500;
-    font-size: 48px;
+    font-size: 42px;
   }
