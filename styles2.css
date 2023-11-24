@@ -42,7 +42,7 @@
     float: right;
   }
   article figure {
-    width: 500 px;
+    width: auto;
     border: 3px solid #C6878F;
     padding: 3px;
   }
