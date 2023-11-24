@@ -49,14 +49,16 @@
   }
   figure.main-image {
     margin: auto;
-    width: 500px;
+    max-width: 100%;
+    height: auto;
   }
   figure.section-image.small {
     float: right;
     margin-left: 15px;
-    width: 300px;
+    max-width: 100%;
   }
   figure {
     border: 3px solid #C6878F;
     padding: 3px;
+    width: 500px;
   }
