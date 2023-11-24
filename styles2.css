@@ -42,7 +42,7 @@
     float: right;
   }
   article figure {
-    width: auto;
+    width: 500px;
     border: 3px solid #C6878F;
     padding: 3px;
   }
@@ -55,4 +55,5 @@
   figure.section-image.small {
     float: right;
     margin-left: 15px;
+    width: 300px;
   }
