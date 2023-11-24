@@ -16,6 +16,7 @@
   }
   body {
     background: #BDD5EA;
+    font-family: 'Raleway', sans-serif;
   }
   body.dark-mode {
     background: #0D1321;
