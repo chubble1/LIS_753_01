@@ -54,10 +54,16 @@
     height: auto;
     background: #EDDEA4;
   }
-  figure.section-image.small {
+  figure.section-image.one {
     float: right;
     margin-left: 15px;
     max-width: 400px;
+    background: #EDDEA4;
+  }
+  figure.section-image.two {
+    float: left;
+    margin-left: 15px;
+    max-width: 300px;
     background: #EDDEA4;
   }
   figure {
@@ -69,8 +75,13 @@
   }
   article p {
     font-weight: 200;
+    font-size: 16px;
   }
   h1#page-title {
     font-weight: 900;
-    font-size: x-large;
+    font-size: 96px;
+  }
+  h2 {
+    font-weight: 500;
+    font-size: 48px;
   }
